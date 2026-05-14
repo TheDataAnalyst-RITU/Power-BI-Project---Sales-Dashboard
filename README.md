@@ -1,0 +1,2 @@
+# Power-Bi-Project---Sales-Dashboard
+Dashboard Creation: Built an intuitive &amp; interactive dashboard with KPIs, visualizations, &amp; filtering capabilities for data exploration. Data Analysis &amp; Sales Forecasting: Analyzed sales trends &amp; applied time series forecasting for next 15 days. Actionable Insights: Delivered insights &amp; recommendations to support strategic business decision-making.
