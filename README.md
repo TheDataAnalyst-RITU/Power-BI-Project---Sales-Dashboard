@@ -1,4 +1,4 @@
-# Power-Bi-Project---Sales-Dashboard
+# Power-BI-Project---Sales-Dashboard
 
 ## OBJECTIVE - 
 
