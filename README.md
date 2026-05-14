@@ -30,6 +30,6 @@ Incorporated data analysis techniques, specializing in time series analysis, to 
 
 ### SCREENSHOTS - 
 This is what the dashboard and sales forecasting looks like:
-https://github.com/TheDataAnalyst-RITU/Power-Bi-Project---Sales-Dashboard/blob/main/Snapshot%20of%20SuperStore%20Sales%20Dashboard.png
+Example: [!Dashboard Preview](https://github.com/TheDataAnalyst-RITU/Power-Bi-Project---Sales-Dashboard/blob/main/Snapshot%20of%20SuperStore%20Sales%20Dashboard.png)
 
-https://github.com/TheDataAnalyst-RITU/Power-Bi-Project---Sales-Dashboard/blob/main/Snapshot%20of%20SuperStore%20Sales%20Forecast.png
+(https://github.com/TheDataAnalyst-RITU/Power-Bi-Project---Sales-Dashboard/blob/main/Snapshot%20of%20SuperStore%20Sales%20Forecast.png)
