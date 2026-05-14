@@ -110,7 +110,7 @@ Sales spikes observed during year-end periods suggest seasonal demand patterns
 * Implemented time series forecasting for short-term sales trend prediction.
 * Strengthened data visualization and business insight generation skills.
 
-# 📷 Dashboard Snapshots
+## 📷 Dashboard Snapshots
 
 ### 📊 Sales Dashboard -
 ![Dashboard Preview](https://github.com/TheDataAnalyst-RITU/Power-Bi-Project---Sales-Dashboard/blob/main/Snapshot%20of%20SuperStore%20Sales%20Dashboard.png)
