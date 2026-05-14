@@ -32,19 +32,19 @@ Applied Power BI forecasting techniques to analyze historical sales trends and p
 Designed analytical visuals including maps, trend lines, donut charts, and category-wise performance analysis for actionable business insights.
 
 ## 📂 Dataset Used
-SuperStore Sales Dataset https://github.com/TheDataAnalyst-RITU/Power-BI-Project---Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx
+[SuperStore Sales Dataset](https://github.com/TheDataAnalyst-RITU/Power-BI-Project---Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx)
 
 The dataset contains business sales transaction data including:
-Order Date
-Sales
-Profit
-Quantity
-Region
-Segment
-Category & Sub-Category
-Shipping Mode
-Payment Mode
-State-wise Sales
+- Order Date
+- Sales
+- Profit
+- Quantity
+- Region
+- Segment
+- Category & Sub-Category
+- Shipping Mode
+- Payment Mode
+- State-wise Sales
 
 ## 📌 Dashboard Features
 
@@ -78,15 +78,15 @@ Implemented time series forecasting using historical sales data to predict futur
 
 Forecasting visuals include:
 
-Forecasted sales trend
-Confidence intervals
-Historical vs predicted sales comparison
+- Forecasted sales trend
+- Confidence intervals
+- Historical vs predicted sales comparison
 
 This helps businesses:
 
-Anticipate demand
-Improve inventory planning
-Support short-term business decisions
+- Anticipate demand
+- Improve inventory planning
+- Support short-term business decisions
 
 ## 💡 Key Business Insights
 #### 📌 Sales Insights -
