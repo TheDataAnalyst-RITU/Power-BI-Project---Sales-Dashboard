@@ -22,13 +22,13 @@ The objective of this project is to:
 
 #### 📊 Power BI Desktop – 
 Built interactive sales and forecasting dashboards with drill-down analysis, KPI tracking, and dynamic filtering.
-### 🔄 Power Query – 
+#### 🔄 Power Query – 
 Performed data cleaning, transformation, and preparation of SuperStore sales data for reporting and analysis.
-### 🧠 DAX (Data Analysis Expressions) - 
+#### 🧠 DAX (Data Analysis Expressions) - 
 Used for business calculations, KPI development, and supporting forecasting analysis within the dashboard.
-### 📈 Time Series Analysis - 
+#### 📈 Time Series Analysis - 
 Applied Power BI forecasting techniques to analyze historical sales trends and predict sales for the next 15 days.
-### 🎨 Data Visualization – 
+#### 🎨 Data Visualization – 
 Designed analytical visuals including maps, trend lines, donut charts, and category-wise performance analysis for actionable business insights.
 
 ## 📂 Dataset Used
@@ -48,27 +48,27 @@ State-wise Sales
 
 ## 📌 Dashboard Features
 
-### 📍 Sales Performance Overview
+#### 📍 Sales Performance Overview
 
 Tracked key KPIs including **Total Sales (1.6M)**, **Profit (175K)**, **Orders (22.3K)**, and **Average Shipping Days (4 Days)**.
 
-### 🌍 Regional Sales Analysis
+#### 🌍 Regional Sales Analysis
 
 Analyzed sales performance across **Central, East, South, and West** regions with interactive geographic filtering.
 
-### 💳 Payment & Shipping Insights
+#### 💳 Payment & Shipping Insights
 
 Visualized customer preferences across **COD, Online, and Card payments**, along with sales distribution by shipping modes including **Standard, First Class, Second Class, and Same Day**.
 
-### 📦 Category Analysis
+#### 📦 Category Analysis
 
 Evaluated sales contribution across **Office Supplies, Technology, and Furniture**, highlighting top-performing sub-categories such as **Phones, Chairs, and Binders**.
 
-### 📈 Sales & Profit Trends
+#### 📈 Sales & Profit Trends
 
 Analyzed monthly sales and profit trends to identify **seasonality, revenue fluctuations, and growth patterns** over time.
 
-### 🗺️ State-wise Performance Analysis
+#### 🗺️ State-wise Performance Analysis
 
 Used map visualizations to analyze sales and profit distribution across U.S. states, identifying top-performing regions including **California, New York, and Texas**.
 
@@ -89,16 +89,16 @@ Improve inventory planning
 Support short-term business decisions
 
 ## 💡 Key Business Insights
-### 📌 Sales Insights -
+#### 📌 Sales Insights -
 West region generated the highest sales contribution
 Technology category showed strong revenue performance
 COD was the most preferred payment mode
 
-### 📌 Operational Insights -
+#### 📌 Operational Insights -
 Standard Class shipping generated maximum sales volume
 Average shipping duration remained around 4 days
 
-### 📌 Forecast Insights -
+#### 📌 Forecast Insights -
 Forecasting indicates stable short-term sales trends
 Sales spikes observed during year-end periods suggest seasonal demand patterns
 
