@@ -1,24 +1,24 @@
-### 📊 SuperStore Sales Dashboard | Power BI Project
+# 📊 SuperStore Sales Dashboard | Power BI Project
 
-# 🚀 Project Overview
+## 🚀 Project Overview
 
 This Power BI project analyzes SuperStore sales performance across different regions, categories, segments, shipping modes, and states to uncover business insights and support data-driven decision-making.
 
 The dashboard also incorporates **15-day sales forecasting using time series analysis** to help businesses anticipate future sales trends and improve strategic planning.
 
-# 🎯 Business Problem
+## 🎯 Business Problem
 
 Businesses generate large amounts of sales data daily, but raw data alone does not provide meaningful insights.
 
 The objective of this project is to:
 
-Monitor sales and profit performance
-Identify high-performing and underperforming areas
-Analyze customer purchasing behavior
-Track sales trends over time
-Forecast short-term future sales using historical data
+- Monitor sales and profit performance
+- Identify high-performing and underperforming areas
+- Analyze customer purchasing behavior
+- Track sales trends over time
+- Forecast short-term future sales using historical data
 
-# 🛠️ Tech Stack Used
+## 🛠️ Tech Stack Used
 
 ### 📊 Power BI Desktop – 
 Built interactive sales and forecasting dashboards with drill-down analysis, KPI tracking, and dynamic filtering.
@@ -31,8 +31,8 @@ Applied Power BI forecasting techniques to analyze historical sales trends and p
 ### 🎨 Data Visualization – 
 Designed analytical visuals including maps, trend lines, donut charts, and category-wise performance analysis for actionable business insights.
 
-# 📂 Dataset Used
-SuperStore Sales Dataset
+## 📂 Dataset Used
+SuperStore Sales Dataset https://github.com/TheDataAnalyst-RITU/Power-BI-Project---Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx
 
 The dataset contains business sales transaction data including:
 Order Date
@@ -46,7 +46,7 @@ Shipping Mode
 Payment Mode
 State-wise Sales
 
-# 📌 Dashboard Features
+## 📌 Dashboard Features
 
 ### 📍 Sales Performance Overview
 
@@ -72,7 +72,7 @@ Analyzed monthly sales and profit trends to identify **seasonality, revenue fluc
 
 Used map visualizations to analyze sales and profit distribution across U.S. states, identifying top-performing regions including **California, New York, and Texas**.
 
-# 🔮 Sales Forecasting (15 Days Forecast)
+## 🔮 Sales Forecasting (15 Days Forecast)
 
 Implemented time series forecasting using historical sales data to predict future sales trends for the next 15 days.
 
@@ -88,7 +88,7 @@ Anticipate demand
 Improve inventory planning
 Support short-term business decisions
 
-# 💡 Key Business Insights
+## 💡 Key Business Insights
 ### 📌 Sales Insights -
 West region generated the highest sales contribution
 Technology category showed strong revenue performance
@@ -102,7 +102,7 @@ Average shipping duration remained around 4 days
 Forecasting indicates stable short-term sales trends
 Sales spikes observed during year-end periods suggest seasonal demand patterns
 
-# 📚 Key Learnings
+## 📚 Key Learnings
 
 * Built hands-on expertise in interactive dashboard development using Power BI.
 * Applied Power Query for data transformation and preparation of sales data.
@@ -111,7 +111,6 @@ Sales spikes observed during year-end periods suggest seasonal demand patterns
 * Strengthened data visualization and business insight generation skills.
 
 # 📷 Dashboard Snapshots
-This is what the dashboard and sales forecasting looks like:
 
 ### 📊 Sales Dashboard -
 ![Dashboard Preview](https://github.com/TheDataAnalyst-RITU/Power-Bi-Project---Sales-Dashboard/blob/main/Snapshot%20of%20SuperStore%20Sales%20Dashboard.png)
