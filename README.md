@@ -20,7 +20,7 @@ The objective of this project is to:
 
 ## 🛠️ Tech Stack Used
 
-### 📊 Power BI Desktop – 
+#### 📊 Power BI Desktop – 
 Built interactive sales and forecasting dashboards with drill-down analysis, KPI tracking, and dynamic filtering.
 ### 🔄 Power Query – 
 Performed data cleaning, transformation, and preparation of SuperStore sales data for reporting and analysis.
